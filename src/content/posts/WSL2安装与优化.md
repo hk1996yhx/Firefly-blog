@@ -7,6 +7,7 @@ image: ./images/firefly2.avif
 category: 安装教程
 tags: ["wsl","linux"]
 author: yhx 
+sourceLink: https://blog.csdn.net/weixin_56029873/article/details/142439651
 draft: false 
 comment: true 
 --- 
