@@ -14,7 +14,8 @@ comment: true
 # 1.更新系统并安装基础软件
 
 ```
-sudo apt update && sudo apt upgrade -y&&sudo apt install -y neofetch nano git unzip vim curl wget tmate && neofetch
+sudo apt update && sudo apt upgrade -y && sudo apt install -y nano git unzip vim curl wget tmate python-is-python3
+sudo apt install -y neofetch && neofetch
 ```
 
 # 2.ssh
