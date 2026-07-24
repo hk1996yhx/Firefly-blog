@@ -15,7 +15,7 @@ VMware Workstation Pro 现在已经可以通过 Broadcom 官方免费获取。
 
 为了方便佬友们能快速下载我就直接贴链接了 成功登录后直接打开[官方VMware下载页](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)就能到下载界面。
 
-需要汉化文件的佬友可以跳过安装的步骤直接看对应的内容哦
+需要汉化文件的佬友可以 跳过安装的步骤直接看对应的内容哦
 
 ## 下载官方最新版
 
